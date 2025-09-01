@@ -1,0 +1,66 @@
+**Grade 12 Life Sciences Mitosis Quiz Generator**
+
+This quiz generator adheres to the CAPS curriculum for Grade 12 Life Sciences, focusing on the topic of mitosis.  It provides multiple-choice questions (MCQs) and short-answer questions (SAQs) to assess understanding.
+
+**Instructions:**  Answer all questions to the best of your ability.
+
+**Section A: Multiple Choice Questions (1 mark each)**
+
+1.  Which of the following phases of mitosis is characterized by the separation of sister chromatids?
+    a) Prophase
+    b) Metaphase
+    c) Anaphase
+    d) Telophase
+
+2.  During which phase of mitosis do chromosomes condense and become visible under a light microscope?
+    a) Interphase
+    b) Prophase
+    c) Metaphase
+    d) Anaphase
+
+
+3.  The process by which the cytoplasm divides to form two daughter cells is called:
+    a) Karyokinesis
+    b) Cytokinesis
+    c) Meiosis
+    d) Binary fission
+
+
+4.  How many chromosomes are present in a human somatic cell *after* mitosis?
+    a) 23
+    b) 46
+    c) 92
+    d) Variable
+
+
+**Section B: Short Answer Questions (2 marks each)**
+
+1.  Briefly describe the role of spindle fibres in mitosis.
+
+2.  Explain the significance of the checkpoint at the end of G2 phase in the cell cycle.
+
+
+3.  Distinguish between mitosis and meiosis.  Mention one key difference.
+
+4.  Describe the events that occur during prophase.
+
+
+**Answer Key:**
+
+**Section A:** 1. c, 2. b, 3. b, 4. b
+
+**Section B:** (Model answers – Allow for variation in wording if scientifically accurate)
+
+1. Spindle fibres attach to chromosomes at the centromere and facilitate the separation of sister chromatids during anaphase, ensuring equal distribution to daughter cells.
+
+2. The G2 checkpoint ensures that DNA replication has been completed accurately and that the cell is ready to proceed to mitosis.  If errors are detected, the cell cycle is halted allowing for repair or triggering apoptosis.
+
+3. Mitosis produces two genetically identical diploid daughter cells, while meiosis produces four genetically different haploid daughter cells.  (Other valid differences accepted).
+
+
+4. During prophase, chromatin condenses into visible chromosomes, the nuclear envelope breaks down, and the mitotic spindle begins to form.
+
+
+**Assessment:**
+
+This quiz assesses learners' knowledge and understanding of the different phases of mitosis, the roles of key structures (e.g., spindle fibres), the significance of checkpoints, and the distinction between mitosis and meiosis.  The MCQ section tests recall, while the SAQ section assesses comprehension and application of knowledge.  This quiz can be further developed by adding more questions, diagrams, and scenario-based questions for a more comprehensive assessment.  This structure allows for adaptation and extension based on the specific learning objectives covered in class.

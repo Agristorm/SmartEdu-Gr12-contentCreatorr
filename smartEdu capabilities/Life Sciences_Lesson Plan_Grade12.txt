@@ -1,0 +1,44 @@
+**CAPS-Aligned Lesson Plan: Grade 12 Life Sciences – Mitosis**
+
+**Topic:** Mitosis and its significance
+
+**Grade:** 12
+
+**Time allocation:** 1 x 60-minute lesson
+
+**Learning Objectives:** By the end of this lesson, learners will be able to:
+
+* Define mitosis and explain its significance in growth and repair.
+* Describe the four phases of mitosis (prophase, metaphase, anaphase, telophase) and identify them in diagrams/microphotographs.
+* Explain the importance of cytokinesis in completing the cell cycle.
+* Relate mitosis to the production of genetically identical cells.
+
+
+**Learning Activities:**
+
+1. **Introduction (10 minutes):** Begin with a brief recap of the cell cycle.  Ask learners: "Why do we grow taller? How do wounds heal?"  Lead the discussion towards the concept of cell division. Introduce mitosis as a type of cell division responsible for growth and repair.
+
+2. **Explanation and Demonstration (25 minutes):**  Explain the four phases of mitosis, using a clear diagram or whiteboard sketch.  Emphasize the key events of each phase:
+    * **Prophase:** Chromosome condensation, nuclear envelope breakdown.  *Example:* Imagine a neatly organised notebook (chromosomes) becoming tangled before being separated.
+    * **Metaphase:** Chromosome alignment at the metaphase plate. *Example:* Think of chromosomes lining up for a race.
+    * **Anaphase:** Sister chromatid separation and movement to opposite poles. *Example:* The runners (chromatids) sprinting to the finish line.
+    * **Telophase:**  Nuclear envelope reformation, chromosome decondensation. *Example:*  The runners (chromosomes) regroup and relax after the race.
+    Show images/microphotographs of each phase to reinforce understanding.  Discuss cytokinesis and its role in forming two daughter cells.
+
+3. **Assessment and Application (15 minutes):**
+
+* **Questions:**
+    * What are the main differences between the phases of mitosis?
+    * Why is it important that daughter cells are genetically identical to the parent cell after mitosis?
+    * How does mitosis contribute to the growth of a plant?
+    * What would be the consequence of errors in mitosis?
+* **Activity:** Learners will label a diagram of mitosis or identify the phases in provided images.  This can be individual work or done in small groups.
+
+
+**Assessment:**  The lesson incorporates formative assessment through questioning and the labelling activity. A summative assessment (e.g., a short quiz) can be given in a subsequent lesson to assess understanding more comprehensively.
+
+
+**Differentiation:** Provide learners with different levels of support based on their individual needs. This may include providing simplified diagrams, offering additional one-on-one assistance, or assigning extension activities to challenge higher-achieving learners. For example, learners can research the role of checkpoints in regulating mitosis.
+
+
+**Resources:** Whiteboard or projector, diagrams of mitosis, microscope slides (if available), textbooks.
